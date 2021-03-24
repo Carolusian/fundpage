@@ -1,6 +1,6 @@
 # Fund Product Page
 
-## Question: Sort a list of search results for Amazon products.
+## Question: Sort a list of search results for fund products.
 
 Provide a solution using a programming language of your choice to sort a list of search results for fund products.
 
